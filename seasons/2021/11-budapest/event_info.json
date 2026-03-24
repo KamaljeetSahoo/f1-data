@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 11,
+  "country": "Hungary",
+  "location": "Budapest",
+  "officialName": "FORMULA 1 ROLEX MAGYAR NAGYD\u00cdJ 2021",
+  "eventName": "Hungarian Grand Prix",
+  "eventDate": "2021-08-01 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-07-30 11:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-07-30 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-07-31 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-07-31 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-08-01 15:00:00+02:00"
+    }
+  }
+}

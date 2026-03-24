@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 13,
+  "country": "Hungary",
+  "location": "Budapest",
+  "officialName": "FORMULA 1 HUNGARIAN GRAND PRIX 2024",
+  "eventName": "Hungarian Grand Prix",
+  "eventDate": "2024-07-21 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-07-19 13:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-07-19 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-07-20 12:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-07-20 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-07-21 15:00:00+02:00"
+    }
+  }
+}

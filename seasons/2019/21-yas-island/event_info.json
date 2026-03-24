@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 21,
+  "country": "Abu Dhabi",
+  "location": "Yas Island",
+  "officialName": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2019",
+  "eventName": "Abu Dhabi Grand Prix",
+  "eventDate": "2019-12-01 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-11-29 13:00:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-11-29 17:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-11-30 14:00:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-11-30 17:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-12-01 17:10:00+04:00"
+    }
+  }
+}

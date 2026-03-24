@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 15,
+  "country": "Netherlands",
+  "location": "Zandvoort",
+  "officialName": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025",
+  "eventName": "Dutch Grand Prix",
+  "eventDate": "2025-08-31 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-08-29 12:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2025-08-29 16:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2025-08-30 11:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-08-30 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-08-31 15:00:00+02:00"
+    }
+  }
+}

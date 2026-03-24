@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 19,
+  "country": "Brazil",
+  "location": "S\u00e3o Paulo",
+  "officialName": "FORMULA 1 HEINEKEN GRANDE PR\u00caMIO DE S\u00c3O PAULO 2021",
+  "eventName": "S\u00e3o Paulo Grand Prix",
+  "eventDate": "2021-11-14 00:00:00",
+  "eventFormat": "sprint",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-11-12 12:30:00-03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-11-12 16:00:00-03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-11-13 12:00:00-03:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2021-11-13 16:30:00-03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-11-14 14:00:00-03:00"
+    }
+  }
+}

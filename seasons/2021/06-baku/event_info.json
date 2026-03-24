@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 6,
+  "country": "Azerbaijan",
+  "location": "Baku",
+  "officialName": "FORMULA 1 AZERBAIJAN GRAND PRIX 2021",
+  "eventName": "Azerbaijan Grand Prix",
+  "eventDate": "2021-06-06 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-06-04 12:30:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-06-04 16:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-06-05 13:00:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-06-05 16:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-06-06 16:00:00+04:00"
+    }
+  }
+}

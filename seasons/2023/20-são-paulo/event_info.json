@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 20,
+  "country": "Brazil",
+  "location": "S\u00e3o Paulo",
+  "officialName": "FORMULA 1 ROLEX GRANDE PR\u00caMIO DE S\u00c3O PAULO 2023",
+  "eventName": "S\u00e3o Paulo Grand Prix",
+  "eventDate": "2023-11-05 00:00:00",
+  "eventFormat": "sprint_shootout",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-11-03 11:30:00-03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-11-03 15:00:00-03:00"
+    },
+    "sprint_shootout": {
+      "name": "Sprint Shootout",
+      "date": "2023-11-04 11:00:00-03:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2023-11-04 15:30:00-03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-11-05 14:00:00-03:00"
+    }
+  }
+}

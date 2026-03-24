@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 11,
+  "country": "Austria",
+  "location": "Spielberg",
+  "officialName": "FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025",
+  "eventName": "Austrian Grand Prix",
+  "eventDate": "2025-06-29 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-06-27 13:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2025-06-27 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2025-06-28 12:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-06-28 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-06-29 15:00:00+02:00"
+    }
+  }
+}

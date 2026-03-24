@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 10,
+  "country": "Spain",
+  "location": "Barcelona",
+  "officialName": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPA\u00d1A 2024",
+  "eventName": "Spanish Grand Prix",
+  "eventDate": "2024-06-23 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-06-21 13:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-06-21 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-06-22 12:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-06-22 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-06-23 15:00:00+02:00"
+    }
+  }
+}

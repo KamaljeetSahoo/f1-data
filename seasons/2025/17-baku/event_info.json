@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 17,
+  "country": "Azerbaijan",
+  "location": "Baku",
+  "officialName": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025",
+  "eventName": "Azerbaijan Grand Prix",
+  "eventDate": "2025-09-21 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-09-19 12:30:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2025-09-19 16:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2025-09-20 12:30:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-09-20 16:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-09-21 15:00:00+04:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 4,
+  "country": "Japan",
+  "location": "Suzuka",
+  "officialName": "FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024",
+  "eventName": "Japanese Grand Prix",
+  "eventDate": "2024-04-07 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-04-05 11:30:00+09:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-04-05 15:00:00+09:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-04-06 11:30:00+09:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-04-06 15:00:00+09:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-04-07 14:00:00+09:00"
+    }
+  }
+}

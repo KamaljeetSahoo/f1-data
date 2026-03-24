@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 24,
+  "country": "United Arab Emirates",
+  "location": "Yas Island",
+  "officialName": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025",
+  "eventName": "Abu Dhabi Grand Prix",
+  "eventDate": "2025-12-07 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-12-05 13:30:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2025-12-05 17:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2025-12-06 14:30:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-12-06 18:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-12-07 17:00:00+04:00"
+    }
+  }
+}

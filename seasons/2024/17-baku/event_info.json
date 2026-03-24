@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 17,
+  "country": "Azerbaijan",
+  "location": "Baku",
+  "officialName": "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024",
+  "eventName": "Azerbaijan Grand Prix",
+  "eventDate": "2024-09-15 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-09-13 13:30:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-09-13 17:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-09-14 12:30:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-09-14 16:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-09-15 15:00:00+04:00"
+    }
+  }
+}

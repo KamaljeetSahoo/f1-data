@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 9,
+  "country": "Austria",
+  "location": "Spielberg",
+  "officialName": "FORMULA 1 BWT GROSSER PREIS VON \u00d6STERREICH 2021",
+  "eventName": "Austrian Grand Prix",
+  "eventDate": "2021-07-04 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-07-02 11:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-07-02 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-07-03 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-07-03 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-07-04 15:00:00+02:00"
+    }
+  }
+}

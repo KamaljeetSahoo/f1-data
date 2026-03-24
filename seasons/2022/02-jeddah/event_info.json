@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 2,
+  "country": "Saudi Arabia",
+  "location": "Jeddah",
+  "officialName": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2022",
+  "eventName": "Saudi Arabian Grand Prix",
+  "eventDate": "2022-03-27 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-03-25 17:00:00+03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-03-25 20:00:00+03:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-03-26 17:00:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-03-26 20:00:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-03-27 20:00:00+03:00"
+    }
+  }
+}

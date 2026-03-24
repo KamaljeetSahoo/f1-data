@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 1,
+  "country": "Bahrain",
+  "location": "Sakhir",
+  "officialName": "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2022",
+  "eventName": "Bahrain Grand Prix",
+  "eventDate": "2022-03-20 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-03-18 15:00:00+03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-03-18 18:00:00+03:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-03-19 15:00:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-03-19 18:00:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-03-20 18:00:00+03:00"
+    }
+  }
+}

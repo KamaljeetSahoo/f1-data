@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 19,
+  "country": "United States",
+  "location": "Austin",
+  "officialName": "FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024",
+  "eventName": "United States Grand Prix",
+  "eventDate": "2024-10-20 00:00:00",
+  "eventFormat": "sprint_qualifying",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-10-18 12:30:00-05:00"
+    },
+    "sprint_qualifying": {
+      "name": "Sprint Qualifying",
+      "date": "2024-10-18 16:30:00-05:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2024-10-19 13:00:00-05:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-10-19 17:00:00-05:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-10-20 14:00:00-05:00"
+    }
+  }
+}

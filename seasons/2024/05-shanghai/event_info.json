@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 5,
+  "country": "China",
+  "location": "Shanghai",
+  "officialName": "FORMULA 1 LENOVO CHINESE GRAND PRIX 2024",
+  "eventName": "Chinese Grand Prix",
+  "eventDate": "2024-04-21 00:00:00",
+  "eventFormat": "sprint_qualifying",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-04-19 11:30:00+08:00"
+    },
+    "sprint_qualifying": {
+      "name": "Sprint Qualifying",
+      "date": "2024-04-19 15:30:00+08:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2024-04-20 11:00:00+08:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-04-20 15:00:00+08:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-04-21 15:00:00+08:00"
+    }
+  }
+}

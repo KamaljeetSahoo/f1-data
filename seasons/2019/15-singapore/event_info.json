@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 15,
+  "country": "Singapore",
+  "location": "Singapore",
+  "officialName": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2019",
+  "eventName": "Singapore Grand Prix",
+  "eventDate": "2019-09-22 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-09-20 16:30:00+08:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-09-20 20:30:00+08:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-09-21 18:00:00+08:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-09-21 21:00:00+08:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-09-22 20:10:00+08:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 3,
+  "country": "China",
+  "location": "Shanghai",
+  "officialName": "FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2019",
+  "eventName": "Chinese Grand Prix",
+  "eventDate": "2019-04-14 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-04-12 10:00:00+08:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-04-12 14:00:00+08:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-04-13 11:00:00+08:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-04-13 14:00:00+08:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-04-14 14:10:00+08:00"
+    }
+  }
+}

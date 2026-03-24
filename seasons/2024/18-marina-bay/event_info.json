@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 18,
+  "country": "Singapore",
+  "location": "Marina Bay",
+  "officialName": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024",
+  "eventName": "Singapore Grand Prix",
+  "eventDate": "2024-09-22 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-09-20 17:30:00+08:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-09-20 21:00:00+08:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-09-21 17:30:00+08:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-09-21 21:00:00+08:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-09-22 20:00:00+08:00"
+    }
+  }
+}

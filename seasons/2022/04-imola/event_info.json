@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 4,
+  "country": "Italy",
+  "location": "Imola",
+  "officialName": "FORMULA 1 ROLEX GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2022",
+  "eventName": "Emilia Romagna Grand Prix",
+  "eventDate": "2022-04-24 00:00:00",
+  "eventFormat": "sprint",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-04-22 13:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-04-22 17:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-04-23 12:30:00+02:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2022-04-23 16:30:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-04-24 15:00:00+02:00"
+    }
+  }
+}

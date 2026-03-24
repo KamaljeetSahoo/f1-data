@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 17,
+  "country": "Qatar",
+  "location": "Lusail",
+  "officialName": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023",
+  "eventName": "Qatar Grand Prix",
+  "eventDate": "2023-10-08 00:00:00",
+  "eventFormat": "sprint_shootout",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-10-06 16:30:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-10-06 20:00:00+03:00"
+    },
+    "sprint_shootout": {
+      "name": "Sprint Shootout",
+      "date": "2023-10-07 16:20:00+03:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2023-10-07 20:30:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-10-08 20:00:00+03:00"
+    }
+  }
+}

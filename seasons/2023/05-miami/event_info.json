@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 5,
+  "country": "United States",
+  "location": "Miami",
+  "officialName": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023",
+  "eventName": "Miami Grand Prix",
+  "eventDate": "2023-05-07 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-05-05 14:00:00-04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2023-05-05 17:30:00-04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2023-05-06 12:30:00-04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-05-06 16:00:00-04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-05-07 15:30:00-04:00"
+    }
+  }
+}

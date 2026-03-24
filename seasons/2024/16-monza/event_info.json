@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 16,
+  "country": "Italy",
+  "location": "Monza",
+  "officialName": "FORMULA 1 PIRELLI GRAN PREMIO D\u2019ITALIA 2024",
+  "eventName": "Italian Grand Prix",
+  "eventDate": "2024-09-01 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-08-30 13:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-08-30 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-08-31 12:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-08-31 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-09-01 15:00:00+02:00"
+    }
+  }
+}

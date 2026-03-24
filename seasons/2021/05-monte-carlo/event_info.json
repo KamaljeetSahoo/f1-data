@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 5,
+  "country": "Monaco",
+  "location": "Monte Carlo",
+  "officialName": "FORMULA 1 GRAND PRIX DE MONACO 2021",
+  "eventName": "Monaco Grand Prix",
+  "eventDate": "2021-05-23 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-05-20 11:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-05-20 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-05-22 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-05-22 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-05-23 15:00:00+02:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 6,
+  "country": "Spain",
+  "location": "Barcelona",
+  "officialName": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPA\u00d1A 2020",
+  "eventName": "Spanish Grand Prix",
+  "eventDate": "2020-08-16 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-08-14 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-08-14 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-08-15 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-08-15 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-08-16 15:10:00+02:00"
+    }
+  }
+}

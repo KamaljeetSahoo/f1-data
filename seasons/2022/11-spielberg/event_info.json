@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 11,
+  "country": "Austria",
+  "location": "Spielberg",
+  "officialName": "FORMULA 1 ROLEX GROSSER PREIS VON \u00d6STERREICH 2022",
+  "eventName": "Austrian Grand Prix",
+  "eventDate": "2022-07-10 00:00:00",
+  "eventFormat": "sprint",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-07-08 13:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-07-08 17:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-07-09 12:30:00+02:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2022-07-09 16:30:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-07-10 15:00:00+02:00"
+    }
+  }
+}

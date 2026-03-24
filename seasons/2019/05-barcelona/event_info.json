@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 5,
+  "country": "Spain",
+  "location": "Barcelona",
+  "officialName": "FORMULA 1 EMIRATES GRAN PREMIO DE ESPA\u00d1A 2019",
+  "eventName": "Spanish Grand Prix",
+  "eventDate": "2019-05-12 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-05-10 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-05-10 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-05-11 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-05-11 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-05-12 15:10:00+02:00"
+    }
+  }
+}

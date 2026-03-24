@@ -1,0 +1,14 @@
+# FastF1 cache (42GB+ of telemetry data)
+cache/
+.fastf1-cache/
+
+# Python
+*.pyc
+__pycache__/
+.venv/
+
+# OS
+.DS_Store
+
+# IDE
+.claude/

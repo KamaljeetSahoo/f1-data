@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 4,
+  "country": "Azerbaijan",
+  "location": "Baku",
+  "officialName": "FORMULA 1 AZERBAIJAN GRAND PRIX 2023",
+  "eventName": "Azerbaijan Grand Prix",
+  "eventDate": "2023-04-30 00:00:00",
+  "eventFormat": "sprint_shootout",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-04-28 13:30:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-04-28 17:00:00+04:00"
+    },
+    "sprint_shootout": {
+      "name": "Sprint Shootout",
+      "date": "2023-04-29 12:30:00+04:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2023-04-29 17:30:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-04-30 15:00:00+04:00"
+    }
+  }
+}

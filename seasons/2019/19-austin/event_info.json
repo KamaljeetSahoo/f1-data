@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 19,
+  "country": "United States",
+  "location": "Austin",
+  "officialName": "FORMULA 1 EMIRATES UNITED STATES GRAND PRIX 2019",
+  "eventName": "United States Grand Prix",
+  "eventDate": "2019-11-03 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-11-01 11:00:00-06:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-11-01 15:00:00-06:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-11-02 13:00:00-06:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-11-02 16:00:00-06:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-11-03 13:10:00-06:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 2,
+  "country": "Austria",
+  "location": "Spielberg",
+  "officialName": "FORMULA 1 PIRELLI GROSSER PREIS DER STEIERMARK 2020",
+  "eventName": "Styrian Grand Prix",
+  "eventDate": "2020-07-12 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-07-10 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-07-10 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-07-11 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-07-11 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-07-12 15:10:00+02:00"
+    }
+  }
+}

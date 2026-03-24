@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 8,
+  "country": "France",
+  "location": "Le Castellet",
+  "officialName": "FORMULA 1 PIRELLI GRAND PRIX DE FRANCE 2019",
+  "eventName": "French Grand Prix",
+  "eventDate": "2019-06-23 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-06-21 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-06-21 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-06-22 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-06-22 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-06-23 15:10:00+02:00"
+    }
+  }
+}

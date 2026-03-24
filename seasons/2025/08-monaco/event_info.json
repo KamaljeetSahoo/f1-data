@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 8,
+  "country": "Monaco",
+  "location": "Monaco",
+  "officialName": "FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025",
+  "eventName": "Monaco Grand Prix",
+  "eventDate": "2025-05-25 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-05-23 13:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2025-05-23 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2025-05-24 12:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-05-24 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-05-25 15:00:00+02:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 13,
+  "country": "Hungary",
+  "location": "Budapest",
+  "officialName": "FORMULA 1 ARAMCO MAGYAR NAGYD\u00cdJ 2022",
+  "eventName": "Hungarian Grand Prix",
+  "eventDate": "2022-07-31 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-07-29 14:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-07-29 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-07-30 13:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-07-30 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-07-31 15:00:00+02:00"
+    }
+  }
+}

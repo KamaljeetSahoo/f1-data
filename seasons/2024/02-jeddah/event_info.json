@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 2,
+  "country": "Saudi Arabia",
+  "location": "Jeddah",
+  "officialName": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024",
+  "eventName": "Saudi Arabian Grand Prix",
+  "eventDate": "2024-03-09 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-03-07 16:30:00+03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-03-07 20:10:00+03:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-03-08 16:30:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-03-08 20:00:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-03-09 20:00:00+03:00"
+    }
+  }
+}

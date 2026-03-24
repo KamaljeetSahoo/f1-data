@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 20,
+  "country": "Mexico",
+  "location": "Mexico City",
+  "officialName": "FORMULA 1 HEINEKEN GRAN PREMIO DE LA CIUDAD DE M\u00c9XICO 2022",
+  "eventName": "Mexico City Grand Prix",
+  "eventDate": "2022-10-30 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-10-28 13:00:00-06:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-10-28 16:00:00-06:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-10-29 12:00:00-06:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-10-29 15:00:00-06:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-10-30 14:00:00-06:00"
+    }
+  }
+}

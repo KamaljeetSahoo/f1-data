@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 8,
+  "country": "Austria",
+  "location": "Spielberg",
+  "officialName": "FORMULA 1 BWT GROSSER PREIS DER STEIERMARK 2021",
+  "eventName": "Styrian Grand Prix",
+  "eventDate": "2021-06-27 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-06-25 11:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-06-25 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-06-26 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-06-26 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-06-27 15:00:00+02:00"
+    }
+  }
+}

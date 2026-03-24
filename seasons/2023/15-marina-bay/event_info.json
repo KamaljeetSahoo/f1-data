@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 15,
+  "country": "Singapore",
+  "location": "Marina Bay",
+  "officialName": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023 ",
+  "eventName": "Singapore Grand Prix",
+  "eventDate": "2023-09-17 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-09-15 17:30:00+08:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2023-09-15 21:00:00+08:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2023-09-16 17:30:00+08:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-09-16 21:00:00+08:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-09-17 20:00:00+08:00"
+    }
+  }
+}

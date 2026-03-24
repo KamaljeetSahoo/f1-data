@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 22,
+  "country": "Abu Dhabi",
+  "location": "Yas Island",
+  "officialName": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023 ",
+  "eventName": "Abu Dhabi Grand Prix",
+  "eventDate": "2023-11-26 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-11-24 13:30:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2023-11-24 17:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2023-11-25 14:30:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-11-25 18:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-11-26 17:00:00+04:00"
+    }
+  }
+}

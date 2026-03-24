@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 4,
+  "country": "Spain",
+  "location": "Barcelona",
+  "officialName": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPA\u00d1A 2021",
+  "eventName": "Spanish Grand Prix",
+  "eventDate": "2021-05-09 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-05-07 11:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-05-07 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-05-08 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-05-08 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-05-09 15:00:00+02:00"
+    }
+  }
+}

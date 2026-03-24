@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 13,
+  "country": "Belgium",
+  "location": "Spa-Francorchamps",
+  "officialName": "FORMULA 1 MO\u00cbT & CHANDON BELGIAN GRAND PRIX 2025",
+  "eventName": "Belgian Grand Prix",
+  "eventDate": "2025-07-27 00:00:00",
+  "eventFormat": "sprint_qualifying",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-07-25 12:30:00+02:00"
+    },
+    "sprint_qualifying": {
+      "name": "Sprint Qualifying",
+      "date": "2025-07-25 16:30:00+02:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2025-07-26 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-07-26 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-07-27 15:00:00+02:00"
+    }
+  }
+}

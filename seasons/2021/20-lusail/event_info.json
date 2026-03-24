@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 20,
+  "country": "Qatar",
+  "location": "Lusail",
+  "officialName": "FORMULA 1 OOREDOO QATAR GRAND PRIX 2021",
+  "eventName": "Qatar Grand Prix",
+  "eventDate": "2021-11-21 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-11-19 13:30:00+03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-11-19 17:00:00+03:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-11-20 14:00:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-11-20 17:00:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-11-21 17:00:00+03:00"
+    }
+  }
+}

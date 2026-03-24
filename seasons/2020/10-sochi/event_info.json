@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 10,
+  "country": "Russia",
+  "location": "Sochi",
+  "officialName": "FORMULA 1 VTB RUSSIAN GRAND PRIX 2020",
+  "eventName": "Russian Grand Prix",
+  "eventDate": "2020-09-27 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-09-25 11:00:00+03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-09-25 15:00:00+03:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-09-26 12:00:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-09-26 15:00:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-09-27 14:10:00+03:00"
+    }
+  }
+}

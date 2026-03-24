@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 7,
+  "country": "France",
+  "location": "Le Castellet",
+  "officialName": "FORMULA 1 EMIRATES GRAND PRIX DE FRANCE 2021",
+  "eventName": "French Grand Prix",
+  "eventDate": "2021-06-20 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-06-18 11:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-06-18 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-06-19 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-06-19 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-06-20 15:00:00+02:00"
+    }
+  }
+}

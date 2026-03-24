@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 3,
+  "country": "Australia",
+  "location": "Melbourne",
+  "officialName": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023",
+  "eventName": "Australian Grand Prix",
+  "eventDate": "2023-04-02 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-03-31 12:30:00+10:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2023-03-31 16:00:00+10:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2023-04-01 12:30:00+10:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-04-01 16:00:00+10:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-04-02 15:00:00+10:00"
+    }
+  }
+}

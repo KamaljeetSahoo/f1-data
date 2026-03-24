@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 10,
+  "country": "Great Britain",
+  "location": "Silverstone",
+  "officialName": "FORMULA 1 LENOVO BRITISH GRAND PRIX 2022",
+  "eventName": "British Grand Prix",
+  "eventDate": "2022-07-03 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-07-01 13:00:00+01:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-07-01 16:00:00+01:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-07-02 12:00:00+01:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-07-02 15:00:00+01:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-07-03 15:00:00+01:00"
+    }
+  }
+}

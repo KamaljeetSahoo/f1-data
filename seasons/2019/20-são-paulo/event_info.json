@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 20,
+  "country": "Brazil",
+  "location": "S\u00e3o Paulo",
+  "officialName": "FORMULA 1 HEINEKEN GRANDE PR\u00caMIO DO BRASIL 2019",
+  "eventName": "Brazilian Grand Prix",
+  "eventDate": "2019-11-17 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-11-15 11:00:00-03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-11-15 15:00:00-03:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-11-16 12:00:00-03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-11-16 15:00:00-03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-11-17 14:10:00-03:00"
+    }
+  }
+}

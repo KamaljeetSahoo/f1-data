@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 6,
+  "country": "Spain",
+  "location": "Barcelona",
+  "officialName": "FORMULA 1 PIRELLI GRAN PREMIO DE ESPA\u00d1A 2022",
+  "eventName": "Spanish Grand Prix",
+  "eventDate": "2022-05-22 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-05-20 14:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-05-20 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-05-21 13:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-05-21 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-05-22 15:00:00+02:00"
+    }
+  }
+}

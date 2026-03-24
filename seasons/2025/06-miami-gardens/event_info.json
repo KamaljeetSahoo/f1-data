@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 6,
+  "country": "United States",
+  "location": "Miami Gardens",
+  "officialName": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025",
+  "eventName": "Miami Grand Prix",
+  "eventDate": "2025-05-04 00:00:00",
+  "eventFormat": "sprint_qualifying",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-05-02 12:30:00-04:00"
+    },
+    "sprint_qualifying": {
+      "name": "Sprint Qualifying",
+      "date": "2025-05-02 16:30:00-04:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2025-05-03 12:00:00-04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-05-03 16:00:00-04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-05-04 16:00:00-04:00"
+    }
+  }
+}

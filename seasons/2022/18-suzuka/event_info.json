@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 18,
+  "country": "Japan",
+  "location": "Suzuka",
+  "officialName": "FORMULA 1 HONDA JAPANESE GRAND PRIX 2022",
+  "eventName": "Japanese Grand Prix",
+  "eventDate": "2022-10-09 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-10-07 12:00:00+09:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-10-07 15:00:00+09:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-10-08 12:00:00+09:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-10-08 15:00:00+09:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-10-09 14:00:00+09:00"
+    }
+  }
+}

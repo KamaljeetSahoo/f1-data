@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 16,
+  "country": "Bahrain",
+  "location": "Sakhir",
+  "officialName": "FORMULA 1 ROLEX SAKHIR GRAND PRIX 2020",
+  "eventName": "Sakhir Grand Prix",
+  "eventDate": "2020-12-06 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-12-04 16:30:00+03:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-12-04 20:30:00+03:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-12-05 17:00:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-12-05 20:00:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-12-06 20:10:00+03:00"
+    }
+  }
+}

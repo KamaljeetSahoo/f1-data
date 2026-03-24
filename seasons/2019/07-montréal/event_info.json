@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 7,
+  "country": "Canada",
+  "location": "Montr\u00e9al",
+  "officialName": "FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2019",
+  "eventName": "Canadian Grand Prix",
+  "eventDate": "2019-06-09 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-06-07 10:00:00-04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-06-07 14:00:00-04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-06-08 11:00:00-04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-06-08 14:00:00-04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-06-09 14:10:00-04:00"
+    }
+  }
+}

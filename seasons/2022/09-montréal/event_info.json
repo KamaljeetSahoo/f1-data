@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 9,
+  "country": "Canada",
+  "location": "Montr\u00e9al",
+  "officialName": "FORMULA 1 AWS GRAND PRIX DU CANADA 2022",
+  "eventName": "Canadian Grand Prix",
+  "eventDate": "2022-06-19 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-06-17 14:00:00-04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-06-17 17:00:00-04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-06-18 13:00:00-04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-06-18 16:00:00-04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-06-19 14:00:00-04:00"
+    }
+  }
+}

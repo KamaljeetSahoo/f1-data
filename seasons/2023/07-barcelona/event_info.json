@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 7,
+  "country": "Spain",
+  "location": "Barcelona",
+  "officialName": "FORMULA 1 AWS GRAN PREMIO DE ESPA\u00d1A 2023",
+  "eventName": "Spanish Grand Prix",
+  "eventDate": "2023-06-04 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-06-02 13:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2023-06-02 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2023-06-03 12:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-06-03 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-06-04 15:00:00+02:00"
+    }
+  }
+}

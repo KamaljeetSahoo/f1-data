@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 8,
+  "country": "Azerbaijan",
+  "location": "Baku",
+  "officialName": "FORMULA 1 AZERBAIJAN GRAND PRIX 2022",
+  "eventName": "Azerbaijan Grand Prix",
+  "eventDate": "2022-06-12 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-06-10 15:00:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-06-10 18:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-06-11 15:00:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-06-11 18:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-06-12 15:00:00+04:00"
+    }
+  }
+}

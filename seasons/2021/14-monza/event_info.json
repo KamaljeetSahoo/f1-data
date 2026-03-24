@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 14,
+  "country": "Italy",
+  "location": "Monza",
+  "officialName": "FORMULA 1 HEINEKEN GRAN PREMIO D\u2019ITALIA 2021",
+  "eventName": "Italian Grand Prix",
+  "eventDate": "2021-09-12 00:00:00",
+  "eventFormat": "sprint",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-09-10 14:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-09-10 18:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-09-11 12:00:00+02:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2021-09-11 16:30:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-09-12 15:00:00+02:00"
+    }
+  }
+}

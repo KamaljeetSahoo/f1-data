@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 22,
+  "country": "Abu Dhabi",
+  "location": "Yas Island",
+  "officialName": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2021",
+  "eventName": "Abu Dhabi Grand Prix",
+  "eventDate": "2021-12-12 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-12-10 13:30:00+04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-12-10 17:00:00+04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-12-11 14:00:00+04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-12-11 17:00:00+04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-12-12 17:00:00+04:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 2,
+  "country": "Italy",
+  "location": "Imola",
+  "officialName": "FORMULA 1 PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA 2021",
+  "eventName": "Emilia Romagna Grand Prix",
+  "eventDate": "2021-04-18 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-04-16 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-04-16 14:30:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-04-17 11:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-04-17 14:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-04-18 15:00:00+02:00"
+    }
+  }
+}

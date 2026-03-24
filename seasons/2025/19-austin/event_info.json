@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "round": 19,
+  "country": "United States",
+  "location": "Austin",
+  "officialName": "FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2025",
+  "eventName": "United States Grand Prix",
+  "eventDate": "2025-10-19 00:00:00",
+  "eventFormat": "sprint_qualifying",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2025-10-17 12:30:00-05:00"
+    },
+    "sprint_qualifying": {
+      "name": "Sprint Qualifying",
+      "date": "2025-10-17 16:30:00-05:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2025-10-18 12:00:00-05:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2025-10-18 16:00:00-05:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2025-10-19 14:00:00-05:00"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 15,
+  "country": "Netherlands",
+  "location": "Zandvoort",
+  "officialName": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024",
+  "eventName": "Dutch Grand Prix",
+  "eventDate": "2024-08-25 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-08-23 12:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2024-08-23 16:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2024-08-24 11:30:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-08-24 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-08-25 15:00:00+02:00"
+    }
+  }
+}

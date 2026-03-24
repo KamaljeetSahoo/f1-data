@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 3,
+  "country": "Hungary",
+  "location": "Budapest",
+  "officialName": "FORMULA 1 ARAMCO MAGYAR NAGYD\u00cdJ 2020",
+  "eventName": "Hungarian Grand Prix",
+  "eventDate": "2020-07-19 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-07-17 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-07-17 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-07-18 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-07-18 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-07-19 15:10:00+02:00"
+    }
+  }
+}

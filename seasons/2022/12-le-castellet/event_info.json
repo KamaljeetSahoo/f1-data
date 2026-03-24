@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 12,
+  "country": "France",
+  "location": "Le Castellet",
+  "officialName": "FORMULA 1 LENOVO GRAND PRIX DE FRANCE 2022",
+  "eventName": "French Grand Prix",
+  "eventDate": "2022-07-24 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-07-22 14:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-07-22 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-07-23 13:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-07-23 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-07-24 15:00:00+02:00"
+    }
+  }
+}

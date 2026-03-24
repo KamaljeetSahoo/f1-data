@@ -1,0 +1,32 @@
+{
+  "year": 2019,
+  "round": 6,
+  "country": "Monaco",
+  "location": "Monte Carlo",
+  "officialName": "FORMULA 1 GRAND PRIX DE MONACO 2019",
+  "eventName": "Monaco Grand Prix",
+  "eventDate": "2019-05-26 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2019-05-23 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2019-05-23 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2019-05-25 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2019-05-25 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2019-05-26 15:10:00+02:00"
+    }
+  }
+}

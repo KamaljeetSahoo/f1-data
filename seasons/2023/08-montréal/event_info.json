@@ -1,0 +1,32 @@
+{
+  "year": 2023,
+  "round": 8,
+  "country": "Canada",
+  "location": "Montr\u00e9al",
+  "officialName": "FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023",
+  "eventName": "Canadian Grand Prix",
+  "eventDate": "2023-06-18 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2023-06-16 13:30:00-04:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2023-06-16 16:30:00-04:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2023-06-17 12:30:00-04:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2023-06-17 16:00:00-04:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2023-06-18 14:00:00-04:00"
+    }
+  }
+}

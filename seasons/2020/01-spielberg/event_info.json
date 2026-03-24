@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 1,
+  "country": "Austria",
+  "location": "Spielberg",
+  "officialName": "FORMULA 1 ROLEX GROSSER PREIS VON \u00d6STERREICH 2020",
+  "eventName": "Austrian Grand Prix",
+  "eventDate": "2020-07-05 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-07-03 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-07-03 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-07-04 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-07-04 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-07-05 15:10:00+02:00"
+    }
+  }
+}

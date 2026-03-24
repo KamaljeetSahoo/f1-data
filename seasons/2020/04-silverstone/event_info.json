@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 4,
+  "country": "Great Britain",
+  "location": "Silverstone",
+  "officialName": "FORMULA 1 PIRELLI BRITISH GRAND PRIX 2020",
+  "eventName": "British Grand Prix",
+  "eventDate": "2020-08-02 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-07-31 11:00:00+01:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-07-31 15:00:00+01:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-08-01 11:00:00+01:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-08-01 14:00:00+01:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-08-02 14:10:00+01:00"
+    }
+  }
+}

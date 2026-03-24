@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 11,
+  "country": "Germany",
+  "location": "N\u00fcrburgring",
+  "officialName": "FORMULA 1 ARAMCO GROSSER PREIS DER EIFEL 2020",
+  "eventName": "Eifel Grand Prix",
+  "eventDate": "2020-10-11 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-10-09 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-10-09 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-10-10 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-10-10 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-10-11 14:10:00+02:00"
+    }
+  }
+}

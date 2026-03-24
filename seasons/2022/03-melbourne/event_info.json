@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 3,
+  "country": "Australia",
+  "location": "Melbourne",
+  "officialName": "FORMULA 1 HEINEKEN AUSTRALIAN GRAND PRIX 2022",
+  "eventName": "Australian Grand Prix",
+  "eventDate": "2022-04-10 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-04-08 13:00:00+10:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-04-08 16:00:00+10:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-04-09 13:00:00+10:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-04-09 16:00:00+10:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-04-10 15:00:00+10:00"
+    }
+  }
+}

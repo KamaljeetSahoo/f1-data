@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 7,
+  "country": "Monaco",
+  "location": "Monaco",
+  "officialName": "FORMULA 1 GRAND PRIX DE MONACO 2022",
+  "eventName": "Monaco Grand Prix",
+  "eventDate": "2022-05-29 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-05-27 14:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-05-27 17:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-05-28 13:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-05-28 16:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-05-29 15:00:00+02:00"
+    }
+  }
+}

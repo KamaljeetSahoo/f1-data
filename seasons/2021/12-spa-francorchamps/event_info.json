@@ -1,0 +1,32 @@
+{
+  "year": 2021,
+  "round": 12,
+  "country": "Belgium",
+  "location": "Spa-Francorchamps",
+  "officialName": "FORMULA 1 ROLEX BELGIAN GRAND PRIX 2021",
+  "eventName": "Belgian Grand Prix",
+  "eventDate": "2021-08-29 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2021-08-27 11:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2021-08-27 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2021-08-28 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2021-08-28 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2021-08-29 15:00:00+02:00"
+    }
+  }
+}

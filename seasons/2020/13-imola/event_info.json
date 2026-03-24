@@ -1,0 +1,24 @@
+{
+  "year": 2020,
+  "round": 13,
+  "country": "Italy",
+  "location": "Imola",
+  "officialName": "FORMULA 1 EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA 2020",
+  "eventName": "Emilia Romagna Grand Prix",
+  "eventDate": "2020-11-01 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-10-31 10:00:00+01:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-10-31 14:00:00+01:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-11-01 13:10:00+01:00"
+    }
+  }
+}

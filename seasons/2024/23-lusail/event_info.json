@@ -1,0 +1,32 @@
+{
+  "year": 2024,
+  "round": 23,
+  "country": "Qatar",
+  "location": "Lusail",
+  "officialName": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024",
+  "eventName": "Qatar Grand Prix",
+  "eventDate": "2024-12-01 00:00:00",
+  "eventFormat": "sprint_qualifying",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2024-11-29 16:30:00+03:00"
+    },
+    "sprint_qualifying": {
+      "name": "Sprint Qualifying",
+      "date": "2024-11-29 20:30:00+03:00"
+    },
+    "sprint": {
+      "name": "Sprint",
+      "date": "2024-11-30 17:00:00+03:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2024-11-30 21:00:00+03:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2024-12-01 19:00:00+03:00"
+    }
+  }
+}

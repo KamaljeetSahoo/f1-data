@@ -1,0 +1,32 @@
+{
+  "year": 2020,
+  "round": 7,
+  "country": "Belgium",
+  "location": "Spa-Francorchamps",
+  "officialName": "FORMULA 1 ROLEX BELGIAN GRAND PRIX 2020",
+  "eventName": "Belgian Grand Prix",
+  "eventDate": "2020-08-30 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2020-08-28 11:00:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2020-08-28 15:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2020-08-29 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2020-08-29 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2020-08-30 15:10:00+02:00"
+    }
+  }
+}

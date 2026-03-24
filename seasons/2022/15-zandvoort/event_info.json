@@ -1,0 +1,32 @@
+{
+  "year": 2022,
+  "round": 15,
+  "country": "Netherlands",
+  "location": "Zandvoort",
+  "officialName": "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2022",
+  "eventName": "Dutch Grand Prix",
+  "eventDate": "2022-09-04 00:00:00",
+  "eventFormat": "conventional",
+  "sessions": {
+    "fp1": {
+      "name": "Practice 1",
+      "date": "2022-09-02 12:30:00+02:00"
+    },
+    "fp2": {
+      "name": "Practice 2",
+      "date": "2022-09-02 16:00:00+02:00"
+    },
+    "fp3": {
+      "name": "Practice 3",
+      "date": "2022-09-03 12:00:00+02:00"
+    },
+    "qualifying": {
+      "name": "Qualifying",
+      "date": "2022-09-03 15:00:00+02:00"
+    },
+    "race": {
+      "name": "Race",
+      "date": "2022-09-04 15:00:00+02:00"
+    }
+  }
+}
