@@ -46,6 +46,6 @@ Extracted from [FastF1](https://github.com/theOehrly/Fast-F1) (telemetry-era: 20
 
 Data is served at:
 ```
-https://kamaljeetsahoo.github.io/f1-data/seasons/{year}/{round}-{location}/race/results.csv
-https://kamaljeetsahoo.github.io/f1-data/circuits/{location}.json
+https://data.f1machine.com/seasons/{year}/{round}-{location}/race/results.csv
+https://data.f1machine.com/circuits/{location}.json
 ```
