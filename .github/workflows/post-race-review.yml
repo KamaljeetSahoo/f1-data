@@ -1,0 +1,39 @@
+name: Post-race review
+
+# f1-analysis's post-race job pushes each new race to the post-race-updates
+# branch, already checked against Jolpica-F1's official results and standings.
+# This opens the pull request for it, or updates the open one. Merging it
+# publishes the race: GitHub Pages serves main, and the app reads the new race
+# list within the hour.
+#
+# Needs "Allow GitHub Actions to create and approve pull requests" on
+# (Settings > Actions > General).
+
+on:
+  push:
+    branches: [post-race-updates]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  pull-request:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open or update the pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          compare="repos/$REPO/compare/main...post-race-updates"
+          title=$(gh api "$compare" --jq '[.commits[].commit.message | split("\n")[0]] | join("; ")')
+          races=$(gh api "$compare" --jq '[.commits[].commit.message | split("\n\n")[1:] | join("\n\n")] | join("\n\n")')
+          body=$(printf '%s\n\n%s\n' "$races" \
+            "Merging this publishes it: the site serves main, and the app picks up the new race list within the hour.")
+          number=$(gh pr list --repo "$REPO" --head post-race-updates --state open --json number --jq '.[0].number // empty')
+          if [ -n "$number" ]; then
+            gh pr edit "$number" --repo "$REPO" --title "$title" --body "$body"
+          else
+            gh pr create --repo "$REPO" --base main --head post-race-updates --title "$title" --body "$body"
+          fi
