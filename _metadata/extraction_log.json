@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T05:29:10.912664",
+  "lastUpdated": "2026-10-12T11:56:41.129716",
   "version": "1.0.0",
   "extracted": {
     "2024/01-sakhir/race": {
@@ -8489,6 +8489,18 @@
     "2026/12-zandvoort/sprint": {
       "status": "ok",
       "timestamp": "2026-09-28T05:28:02.856736",
+      "files": [
+        "results.csv",
+        "laps.csv",
+        "weather.csv",
+        "track_status.csv",
+        "race_control_messages.csv",
+        "session_info.json"
+      ]
+    },
+    "2026/17-marina-bay/sprint": {
+      "status": "ok",
+      "timestamp": "2026-10-12T11:56:41.129693",
       "files": [
         "results.csv",
         "laps.csv",
